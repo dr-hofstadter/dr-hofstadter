@@ -3,8 +3,7 @@
 
 <p style = "line-height: 80%">
 An enthusiastic individual who loves exploring new technologies and who has the ability to come up with better solutions.  <br/>
-  ✨ A Software Engineer and an aspiring Data Enthusiast.
-  &nbsp &nbsp  &nbsp I have contributed to numerous open-source projects and now mentoring various projects and teams.<br/>
+  ✨ A Software Engineer and an aspiring Data Enthusiast
   🌱 I have 1 year of experience in software Development as of may 2023 and am working with one of the big MNC
   ✔️ I believe in sharing, learning and growing together. Extremely motivated to develop my skills constantly and grow professionally. Also, I possess
     great communication and leadership skills.
@@ -25,7 +24,6 @@ An enthusiastic individual who loves exploring new technologies and who has the 
 
 ## 🚀 My Blogs (To be Announced)
 I love exploring technology and documenting stuff that I come across and find interesting. Hoping that you will love reading it :)<br><br>
-<!--[<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">](https://blogs.aakanksha.is-a.dev/)-->
 
 ## 🤝 Connect with me
 <p>
