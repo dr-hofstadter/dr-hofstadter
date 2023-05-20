@@ -1,11 +1,11 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
-# Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="33px">, I'm [Utsav](https://utsav.is-a.dev/)!
+# Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="33px">, I'm [Utsav](https://dr-hofstadter.github.io/)!
 
 <p style = "line-height: 80%">
 An enthusiastic individual who loves exploring new technologies and who has the ability to come up with better solutions.  <br/>
-  ✨ A Software Engineer and an Open Source Enthusiast who has guided <b>100+ participants</b> to start their open-source journey.  <br/>
+  ✨ A Software Engineer and an aspiring Data Enthusiast.
   &nbsp &nbsp  &nbsp I have contributed to numerous open-source projects and now mentoring various projects and teams.<br/>
-  🌱 I work closely with the local training and development centre <b><a href="https://websycode.in/">WebSyCode</a></b> to abridge the technological gap separating the current market trends with academic means of webinars, in-person consultation and running local campaigns and meetups. <br/>
+  🌱 I have 1 year of experience in software Development as of may 2023 and am working with one of the big MNC
   ✔️ I believe in sharing, learning and growing together. Extremely motivated to develop my skills constantly and grow professionally. Also, I possess
     great communication and leadership skills.
 <br>
@@ -15,18 +15,17 @@ An enthusiastic individual who loves exploring new technologies and who has the 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-- 🌱 I’m currently looking for <b>Full Time Employment Opportunities</b>
+- 🌱 I’m currently looking for <b>New Opportunities</b>
 - 🔭 I’m currently exploring <b>Cloud Services</b>
-- 💬 Ask me about **Cloud** and **Open Source Contributions** 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 📫 Reach me at : **utsav.raj.338@gmail.com**
 - ⚡ Fun fact: I love designing and travelling to explore new places.
 - ❤️ Building a community to make an impact by training new generations on cutting edge technologies to meet future requirements. 
 <br/>
 
-## 🚀 My Blogs
+## 🚀 My Blogs (To be Announced)
 I love exploring technology and documenting stuff that I come across and find interesting. Hoping that you will love reading it :)<br><br>
-[<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">](https://blogs.aakanksha.is-a.dev/)
+<!--[<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">](https://blogs.aakanksha.is-a.dev/)-->
 
 ## 🤝 Connect with me
 <p>
@@ -36,8 +35,8 @@ You can connect with me here-
 </p>
 
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/aakanksha-bhende/)
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/AakankshaBhende)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/utsav-singh-29b0a8174/)
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/Not_Erdogan)
 
 ## 💻 Languages and Tools
 
